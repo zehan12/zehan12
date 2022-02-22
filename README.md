@@ -15,4 +15,10 @@
 - 📫 How to reach me: not now
 - 😄 Pronouns: ...
 
-![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&hide=contribs,prs)
+![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&hide=contribs,prs&show_icons=true&theme=radical))
+
+![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&theme=aura&show_icons=true)
+
+[![Zehan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zehan12)](https://github.com/zehan12/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehan12&layout=compact)](https://github.com/zehan12/github-readme-stats)
