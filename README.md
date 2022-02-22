@@ -36,17 +36,6 @@ const zehan = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehan12&layout=compact)](https://github.com/zehan12/github-readme-stats)
 
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#343](https://github.com/DenverCoder1/custom-icon-badges/pull/343) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-2. 🎉 Merged PR [#215](https://github.com/DenverCoder1/github-readme-streak-stats/pull/215) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. ❌ Closed PR [#394](https://github.com/nextcord/nextcord/pull/394) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-4. 🗣 Commented on [#483](https://github.com/nextcord/nextcord/issues/483) in [nextcord/nextcord](https://github.com/nextcord/nextcord)
-5. 🎉 Merged PR [#33](https://github.com/nextcord/nextcord-ext-menus/pull/33) in [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus)
-<!--END_SECTION:activity-->
-</details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=zehan12&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 |   | A | B | C | D | E | F | G | H |
