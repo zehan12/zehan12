@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Zehan 👋
 
-<!--
-**zehan12/zehan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Learning new Skills
+- 🎓 &nbsp; Graduated
+- 💼 &nbsp; Learning Mern Stack Development at AltCampus(Bootcamp)
+- ✍️ &nbsp; Hobbies Writing Blogs and Reading Books
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on express app
+- 🌱 I’m currently learning Backend developement
+- 👯 I’m looking to collaborate on Nah!
+- 🤔 I’m looking for help with yeah
+- 💬 Ask me about anything
+- 📫 How to reach me: not now
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
