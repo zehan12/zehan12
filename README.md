@@ -7,15 +7,18 @@
 - 💼 &nbsp; Learning Mern Stack Development at AltCampus(Bootcamp)
 - ✍️ &nbsp; Hobbies Writing Blogs and Reading Books
 
-- 🔭 I’m currently working on express app
-- 🌱 I’m currently learning Backend developement
-- 👯 I’m looking to collaborate on Nah!
-- 🤔 I’m looking for help with yeah
-- 💬 Ask me about anything
-- 📫 How to reach me: not now
-- 😄 Pronouns: ...
+const anmol = {
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: "mongo"
+    },
+    currentFocus: "Backend Developement"
+};
 
-![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&hide=contribs,prs&show_icons=true&theme=radical))
 
 ![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&theme=aura&show_icons=true)
 
