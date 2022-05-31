@@ -23,10 +23,13 @@ const zehan = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
+        }
+        frontEnd: {
+            React
         },
         databases: "mongo"
     },
-    currentFocus: "Backend Developement"
+    currentFocus: "FullStack Developement"
 };
 ```
 
