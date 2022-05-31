@@ -30,12 +30,7 @@ const zehan = {
 };
 ```
 
-<div display="flex">
-    <div> ![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&theme=aura&show_icons=true)
-  </div>
-<div>
+![Zehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehan12&theme=aura&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehan12&layout=compact)](https://github.com/zehan12/github-readme-stats)
-</div>
-</div>
 
 
