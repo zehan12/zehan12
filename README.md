@@ -1,9 +1,10 @@
- <img src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180">
-  <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
+
 <h1 align="center">Hi 👋, I'm zehan</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 [![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
+
+<img src="src\images\gifs\chika.gif" align="right" height="240px"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=var+name+%3A%3D+%22DeanAbad%22;var+langs+%3A%3D+%5B+%22C%2B%2B%22+%2C+%22Python%22%5D;var+scripts+%3A%3D+%5B%22GDScript%22%2C+%22JavaScript%22%5D;%C2%A0">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
