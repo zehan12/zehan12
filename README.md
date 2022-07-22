@@ -3,8 +3,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 [![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
-
-<img src="src\images\gifs\chika.gif" align="right" height="240px"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=20&duration=2000&multiline=true&width=490&height=80&lines=const+name+%3A%3D+%22ZehanKhan%22>
+<img src="chika.gif" align="right" height="240px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
