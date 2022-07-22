@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm zehan</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-[![Profile badge](https://www.codewars.com/users/zehan/badges/large)](https://www.codewars.com/users/zehan)
+[![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
