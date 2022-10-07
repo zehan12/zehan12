@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/zehan12/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehan12" alt="zehan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zehan9211" target="blank"><img src="https://img.shields.io/twitter/follow/achyuthyadav14?logo=twitter&style=for-the-badge" alt="zehan12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zehan9211" target="blank"><img src="https://img.shields.io/twitter/follow/zehan12?logo=twitter&style=for-the-badge" alt="zehan12" /></a> </p>
 
 
 [![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
