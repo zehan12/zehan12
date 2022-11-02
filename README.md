@@ -28,9 +28,9 @@ const zehan = {
             js: ["Node", "Express"],
         }
         frontEnd: {
-            React
+            React, Vue
         },
-        databases: "mongo"
+        databases: "mongo", "postgres"
     },
     currentFocus: "FullStack Developement"
 };
