@@ -3,8 +3,8 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zehan12&label=Profile%20views&color=0e75b6&style=flat" alt="zehan" /> </p>
-[![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zehan12&label=Profile%20views&color=0e75b6&style=flat" alt="zehan" /> 
+[![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)</p>
 <img width="100%" src="https://thumbs.gfycat.com/JampackedOrneryJaeger-size_restricted.gif" />
 
 <p align="left"> <a href="https://github.com/zehan12/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehan12" alt="zehan" /></a> </p>
