@@ -4,8 +4,18 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zehan12&label=Profile%20views&color=0e75b6&style=flat" alt="zehan" /> 
+    
+    <p align="left"> <a href="https://twitter.com/zehan9211" target="blank"><img src="https://img.shields.io/twitter/follow/zehan12?logo=twitter&style=for-the-badge" alt="zehan12" /></a> </p>
+
+
+[![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
+<img src="chika.gif" align="right" height="240px">
+<h3 align="left">Connect with me:</h3>
+
+    
 [![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)</p>
 <img width="100%" src="https://thumbs.gfycat.com/JampackedOrneryJaeger-size_restricted.gif" />
+
 
 <p align="left"> <a href="https://github.com/zehan12/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehan12" alt="zehan" /></a> </p>
 
