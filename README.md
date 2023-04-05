@@ -6,7 +6,9 @@
 
 <div style="display: flex;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zehan12&label=Profile%20views&color=0e75b6&style=flat" alt="zehan" /> 
+  
 [![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)</p>
+  
 </div>
 
 <img width="100%" src="https://thumbs.gfycat.com/JampackedOrneryJaeger-size_restricted.gif" />
