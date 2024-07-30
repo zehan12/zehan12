@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,bash,python,ruby,golang,spring" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,bash,python,ruby,golang" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flask,django,rails,nestjs," />
+    <img src="https://skillicons.dev/icons?i=express,flask,django,rails,nestjs,springboot" />
     <a>
 </p>
 
