@@ -65,7 +65,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flask,django" />
+    <img src="https://skillicons.dev/icons?i=express,flask,django,rails,nestjs," />
     <a>
 </p>
 
@@ -73,7 +73,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest" />
+    <img src="https://skillicons.dev/icons?i=jest,cypress,vitest" />
     <a>
 </p>
 <!-- - Rxjs
