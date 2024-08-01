@@ -46,7 +46,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react" />
-    <img src="https://preactjs.com/assets/branding/symbol.png" alt="html" title="html" width="50" height="50"/><img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="html" title="html" width="50" height="50"/>
+<!--     <img src="https://preactjs.com/assets/branding/symbol.png" alt="html" title="html" width="50" height="50"/> -->
+    <img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="html" title="html" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=nextjs,remix,svelte,solidjs,redux"/>
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" width="50" />
 <img src="https://devsdata.com/wp-content/uploads/2020/08/redux-saga-logo.webp" width="50" />
