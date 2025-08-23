@@ -1,11 +1,50 @@
-<h1 align="center">Hi 👋, I'm zehan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zehan12&label=Profile%20views&color=0e75b6&style=flat" alt="zehan" />
+# Zehan Khan
 
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<p align="center">As a crazy full stack developer, I am driven by a desire to explore and learn every tech stack that I can get my hands on. I am not satisfied with just sticking to one set of technologies, but rather I crave the opportunity to expand my skills and knowledge in a wide range of areas. Whether it be front-end, back-end, or even emerging technologies, I am always eager to dive in and see what I can learn and accomplish.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zehan12&label=Profile%20views&color=0e75b6&style=flat" alt="zehan" />  
+
+  <a href="https://zehankhan.vercel.app/">
+    <img src="https://img.shields.io/badge/website-303030" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/zehan-khan-6001a4144/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/zehan12?tab=followers">
+    <img src="https://img.shields.io/github/followers/zehan12?label=Follow&style=social" />
+  </a>
+  <a href="mailto:zehan9211@gmail.com">
+    <img src="https://img.shields.io/badge/-zehan9211@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/zehan9211">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
+<!--   <a href="https://youtube.com/@zehankhan">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&logoColor=white" />
+  </a> -->
+  <a href="https://medium.com/@zehan9211">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" />
+  </a>
 </p>
 
-[![Profile badge](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)
+---
+
+
+
+
+
+
+<h3 align="left">A passionate Full Stack Developer from India</h3>
+<p align="left">As a crazy full stack developer, I am driven by a desire to explore and learn every tech stack that I can get my hands on. I am not satisfied with just sticking to one set of technologies, but rather I crave the opportunity to expand my skills and knowledge in a wide range of areas. Whether it be front-end, back-end, or even emerging technologies, I am always eager to dive in and see what I can learn and accomplish.
+</p>
+
+## 🏆 Achievements  
+
+- **Codewars**:  
+  [![Codewars](https://www.codewars.com/users/ZEHAN/badges/large)](https://www.codewars.com/users/ZEHAN)  
+
+---
+
 
 <!-- ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
