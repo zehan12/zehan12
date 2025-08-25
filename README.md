@@ -147,7 +147,18 @@
     <a>
 </p>
 
-### 📌 Pins:
+## 📈 Stats
+
+<a href="https://github.com/zehan12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehan12&theme=light&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehan12&theme=transparent&bg_color=white&layout=compact" />
+</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehan12&" alt="zehan12" /></p>
+
+
+
+## 📌 Pins
+
 [![An image of @zehan12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zehan12)](https://holopin.io/@zehan12)
 
 <a href="https://app.daily.dev/darksiderise"><img src="https://api.daily.dev/devcards/v2/XUfnCkNjJcK9eXPg7me0D.png?type=wide&r=3oj" width="652" alt="zehan khan's Dev Card"/></a>
