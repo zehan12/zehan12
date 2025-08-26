@@ -35,6 +35,7 @@
 
 * 🎨 Software engineer who ❤️ Typescript and React.
 * 💼 I’m currently maintaining [Cheatsheets.zip](https://cheatsheets.zip/) and [Quickref.me](https://quickref.me/).
+* 🚀 I work on a ton of random projects in my free time.
 * 🎁 Open source enthusiast. Thanks to all the open source contributors!
 * 💬 Ask me about anything [here](https://github.com/zehan12/zehan12/issues).
 
