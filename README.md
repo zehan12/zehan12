@@ -28,7 +28,7 @@
 
 ### 💁 Info
 - 🇮🇳 India
-- 👨🏻‍💻 Sr. Software Engineer and Frontend Tech Lead with 3 years of experience
+- 💻 Sr. Software Engineer and Frontend Tech Lead with 3 years of experience
 - 🏢 Ex- OplanD Tech, Headstarter AI, Hootboard, AltCampus
 
 ### 🤷🏻‍♂️ About me
