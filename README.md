@@ -26,25 +26,16 @@
   </a>
 </p>
 
----
-
-
-
-
-
-
-<h3 align="left">A passionate Full Stack Developer from India</h3>
-<p align="left">As a crazy full stack developer, I am driven by a desire to explore and learn every tech stack that I can get my hands on. I am not satisfied with just sticking to one set of technologies, but rather I crave the opportunity to expand my skills and knowledge in a wide range of areas. Whether it be front-end, back-end, or even emerging technologies, I am always eager to dive in and see what I can learn and accomplish.
-</p>
+### 💁 Info
+- 🇮🇳 India
+- 👨🏻‍💻 Sr. Software Engineer and Frontend Tech Lead with 3 years of experience
+- 🏢 Ex- OplanD Tech, Headstarter AI, Hootboard, AltCampus
 
 ### 🤷🏻‍♂️ About me
 
 * 🎨 Software engineer who ❤️ Typescript and React.
-
 * 💼 I’m currently maintaining [Cheatsheets.zip](https://cheatsheets.zip/) and [Quickref.me](https://quickref.me/).
-
 * 🎁 Open source enthusiast. Thanks to all the open source contributors!
-
 * 💬 Ask me about anything [here](https://github.com/zehan12/zehan12/issues).
 
 
@@ -159,7 +150,7 @@
     <a>
 </p>
 
-### 📈 Stats
+### 🏅 Stats
 
 <a href="https://github.com/zehan12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehan12&theme=light&show_icons=true" />
