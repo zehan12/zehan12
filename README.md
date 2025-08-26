@@ -69,32 +69,70 @@
 <br /> -->
 ### Tech Stack
  
-####  Programming Languages & Frameworks
-
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,typescript,bash,python,ruby,golang" />
-  </a>
-</p>
-
-- #### OS Stack
-
-<p align=“left” class="icons"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt=“linux” title=“linux” width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt=“ubuntu” title=“ubuntu” width="40" height="40"/> 
-<img src="https://seeklogo.com/images/M/macos-logo-9E37FA8B61-seeklogo.com.png" alt=“ubuntu” title=“ubuntu” width="40" height="40"/>
-
-</p>
-
-- #### Frontend Stack
+####  Programming Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" />
-<!--     <img src="https://preactjs.com/assets/branding/symbol.png" alt="html" title="html" width="50" height="50"/> -->
-    <img src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" alt="html" title="html" width="50" height="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs,remix,svelte,solidjs,redux"/>
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" width="50" />
-<img src="https://devsdata.com/wp-content/uploads/2020/08/redux-saga-logo.webp" width="50" />
-  </a>
+    <code><img height="30" src="https://skillicons.dev/icons?i=js" title="JavaScript" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=typescript" title="TypeScript" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=bash" title="Bash" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=python" title="Python" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=ruby" title="Ruby" /></code>
+    <code><img height="30" src="https://skillicons.dev/icons?i=golang" title="Golang" /></code>
+</p>
+
+#### OS Stack
+<p align="left" class="icons">
+  <code><img src="https://skills.syvixor.com/api/icons?i=linux" alt="Linux" title="Linux" height="30"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu"  height="30"/></code>
+  <code><img src="https://skillicons.dev/icons?i=debian" alt="debain" title="Debain" height="30"/></code>
+  <code><img src="https://skills.syvixor.com/api/icons?i=macos" alt="macos" title="MacOS" height="30"/></code>
+</p>
+
+#### Frontend Stack
+
+<p align="left">
+    <code><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=css" alt="CSS" title="CSS"  height="30"/></code>
+    <code><img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" title="HTMX"  height="30"/></code>
+    <code><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=reactnative" alt="ReactNative" title="React Native"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=expo" alt="expo" title="Expo"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=preact" alt="Preact" title="Preact"  height="30"/></code>
+    <br />
+    <code><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=reactrouter" alt="React Router v7" title="React Router v7"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=tanstack" alt="tanstack" title="Tanstack Start"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=qwik" alt="Qwik" title="Qwik"  height="30"/></code>
+    <code><img src="https://skillicons.dev/icons?i=remix" alt="Remix" title="Remix v2"  height="30"/></code>
+    <code><img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" title="Svelte"  height="30"/></code>
+    <code><img src="https://skillicons.dev/icons?i=solidjs" alt="SolidJS" title="SolidJS"  height="30"/></code>
+    <br />
+    <code><img src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro"  height="30"/></code>
+    <code><img src="https://avatars.githubusercontent.com/u/96090470?s=48&v=4" alt="Plasmo" title="Plasmo"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=electron" alt="Electron" title="electron"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=tauri" alt="tauri" title="tauri"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=lynxjs" alt="lynxjs" title="lynxjs"  height="30"/></code>
+</p>
+
+#### Frontend Libraries
+
+<p align="left">
+    <code><img src="https://skills.syvixor.com/api/icons?i=reactrouter" alt="reactrouter" title="React Router"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=tanstack" alt="tanstack" title="Tanstack Router"  height="30"/></code>
+    <code><img src="https://reactnavigation.org/img/spiro.svg" alt="react navigation" title="React Navigation"  height="30"/></code>
+    <code><img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux"  height="30"/></code>
+    <code><img src="https://redux-toolkit.js.org/img/favicon/favicon.ico" alt="Redux Toolkit" title="Redux Toolkit"  height="30"/></code>
+    <code><img src="https://devsdata.com/wp-content/uploads/2020/08/redux-saga-logo.webp" alt="Redux-Saga" title="Redux-Saga"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=zustand" alt="zustand" title="zustand"  height="30"/></code>
+    <br />
+    <code><img src="https://skills.syvixor.com/api/icons?i=jotai" alt="jotai" title="jotai"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=preact" alt="Signals" title="Signals"  height="30"/></code>
+    <code><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" alt="React Query" title="React Query"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=axios" alt="Axios" title="Axios"  height="30"/></code>
+    <code><img src="https://raw.githubusercontent.com/sindresorhus/ky/d7320b9485fdc0a1d4fa3d0cb3c2d144275b81b5/media/logo.svg" alt="Ky" title="Ky"  height="30"/></code>
+    <code><img src="https://skills.syvixor.com/api/icons?i=swr" alt="swr" title="swr"  height="30"/></code>
+    
 </p>
 
 - #### Frontend UI Frameworks/Libraries
