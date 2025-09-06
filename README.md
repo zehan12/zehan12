@@ -197,7 +197,7 @@
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehan12&" alt="zehan12" /></p>
 
-
+[![Zehan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zehan12&theme=tokyo-night)](https://github.com/zehan12/github-readme-activity-graph)
 
 ### 📌 Pins
 
